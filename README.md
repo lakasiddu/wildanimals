@@ -5,7 +5,9 @@ This is a web based application developed for earth  related telugu based websit
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-*Project Link* -
+*Project Link* -https://polite-sky-02d1a8510.2.azurestaticapps.net/
+
+
 *Project demovideolink* -
 
 ## Home
@@ -38,5 +40,4 @@ This is a web based application developed for earth  related telugu based websit
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
