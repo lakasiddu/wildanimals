@@ -37,10 +37,9 @@ Project demo video URL : https://kind-coast-058cdd110.2.azurestaticapps.net
 
 ## Home
 <img width="1079" alt="siddu home1" src="https://user-images.githubusercontent.com/116721007/213425179-dcc61d10-50bb-4220-8446-f9f7cd8049b5.png">
-<img width="1079" alt="siddu home2" src="https://user-images.githubusercontent.com/116721007/213425200-b707bb7c-44f3-4eb0-96bd-c28963a13c53.png">
-<img width="1079" alt="siddu home3" src="https://user-images.githubusercontent.com/116721007/213425260-a0596c6c-11e0-4c30-91f8-f7300a8cfb92.png">
+
 <img width="1079" alt="siddu home4" src="https://user-images.githubusercontent.com/116721007/213425277-9b087eac-fd3b-40cd-819b-daed35c0c5cb.png">
-<img width="1079" alt="siddu home5" src="https://user-images.githubusercontent.com/116721007/213425306-ad2764df-e60d-4c6e-a655-5a479328cc94.png">
+
 <img width="1079" alt="siddu home6" src="https://user-images.githubusercontent.com/116721007/213425341-0dd5eb9c-10f1-412e-a3fb-cba7cc900806.png">
 
 
