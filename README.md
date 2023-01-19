@@ -28,11 +28,11 @@ Primary Azure Technology : Static Web Apps, Azure Health Bot,App service.
 ..................................................................................................................................
 
 
-Project demo video URL : https://kind-coast-058cdd110.2.azurestaticapps.net
+Project demo video URL : https://drive.google.com/drive/folders/1si8-ZhDnCuJyjtD7qyJjtmI5JhnRSDm7
 
 
 
-## Project Link - 
+## Project Link - https://kind-coast-058cdd110.2.azurestaticapps.net
 
 
 ## Home
