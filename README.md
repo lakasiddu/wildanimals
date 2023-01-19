@@ -19,20 +19,20 @@ Primary Azure Technology : Static Web Apps, Azure Health Bot,App service.
 
 .................................................................................................................................
 
-Static Web App URL : 
+1,Static Web App URL : https://kind-coast-058cdd110.2.azurestaticapps.net
 
-Azure Health Bot URL : 
+2,Azure Health Bot URL : https://wildanimalsnew.azurewebsites.net/bot.html
 
-App service URL:
+3,App service URL: https://wildanimalsnew.azurewebsites.net
 
 ..................................................................................................................................
 
 
-Project demo video URL : 
+Project demo video URL : https://kind-coast-058cdd110.2.azurestaticapps.net
 
 
 
-## Project Link - https://polite-sky-02d1a8510.2.azurestaticapps.net
+## Project Link - 
 
 
 ## Home
@@ -67,8 +67,12 @@ Project demo video URL :
 
 <img width="945" alt="Screenshot_20221124_033013" src="https://user-images.githubusercontent.com/116721007/203763038-f2418c19-2d2d-48f1-aa5b-89aff125f481.png">
 
-## Azure Services Used
+## HOME/BOT
+<img width="1064" alt="siddu bot1" src="https://user-images.githubusercontent.com/116721007/213426851-71e899ba-e4b0-45f9-8d49-4c972df931ff.png">
 
+
+## Azure Services Used
+<img width="1080" alt="siddu  azure" src="https://user-images.githubusercontent.com/116721007/213426871-1cb54ce1-745a-4bcf-b9f6-381d965579ef.png">
 
 
 
